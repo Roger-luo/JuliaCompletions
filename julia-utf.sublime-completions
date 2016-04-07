@@ -1,5 +1,5 @@
 {
-	"scope": "source.julia keyword.operator.arithmetic.julia",
+	"scope": "source.julia",
 
 	"completions": [
 		{"trigger": "\\textexclamdown", "contents": "¡" },
@@ -41,7 +41,7 @@
 		{"trigger": "\\th", "contents": "þ" },
 		{"trigger": "\\DJ", "contents": "Đ" },
 		{"trigger": "\\dj", "contents": "đ" },
-		{"trigger": "\\Elzxh\\hbar", "contents": "ħ" },
+		{"trigger": "\\hbar", "contents": "ħ" },
 		{"trigger": "\\L", "contents": "Ł" },
 		{"trigger": "\\l", "contents": "ł" },
 		{"trigger": "\\NG", "contents": "Ŋ" },
